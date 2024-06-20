@@ -1,4 +1,4 @@
-- 👋 Hi, I’m sanjai K C K
-- 👀 I’m a amateur coder, learning c and python with hopes of creating a career in cybersecurity
-- 🌱 first year cybersecurity student at amrita vishwavidyapeetham coimbatore
-- 📫 reach me at sanjaiposeidon@gmail.com
+- sanjai K C K
+- learning bash, python, javascript at the moment
+- enrolled in CSE with specialization in cybersecurity at Amrita Vishwavidyapeetham, Coimbatore
+- reach me at sanjaiposeidon@gmail.com
