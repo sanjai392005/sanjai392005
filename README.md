@@ -1,4 +1,1 @@
-- sanjai K C K
-- learning bash, python, javascript at the moment
-- enrolled in CSE with specialization in cybersecurity at Amrita Vishwavidyapeetham, Coimbatore
-- reach me at sanjaiposeidon@gmail.com
+i like cheese
